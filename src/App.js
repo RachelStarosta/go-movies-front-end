@@ -2,6 +2,10 @@ import { Link, Outlet, useNavigate } from 'react-router-dom';
 import { useState } from 'react';
 import Alert from './Components/Alert';
 
+/**
+ * a little changement to see if merge works 
+ * 
+ */
 
 function App() {
 
